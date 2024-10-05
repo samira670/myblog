@@ -165,5 +165,6 @@ wcwidth==0.2.13
 webcolors==1.13
 webencodings==0.5.1
 websocket-client==1.8.0
+whitenoise==6.7.0
 widgetsnbextension==4.0.11
 wsproto==1.2.0
