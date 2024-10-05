@@ -7,7 +7,8 @@ SECRET_KEY = 'your-secret-key'
 
 DEBUG = True
 
-ALLOWED_HOSTS = ['myblog-corner-of-mind.herokuapp.com']
+ALLOWED_HOSTS = ['myblog-corner-of-mind-31d3551cca08.herokuapp.com', 'localhost', '127.0.0.1']
+
 
 INSTALLED_APPS = [
     'django.contrib.admin',
